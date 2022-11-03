@@ -1,0 +1,10 @@
+# Ignore temp files
+
+
+# Ignore data folder (log files and results)
+data/
+img/Thumbs.db
+*.db
+*.db
+*.db
+*.db
